@@ -88,6 +88,21 @@ This Challenge is graded based on the following criteria:
 
 * Repository contains quality readme file with description, screenshot, and link to deployed application.
 
+https://snowlxy1202.github.io/SnowPasswordGenerator/
+
+Initial webpage of the password generator
+![Alt text](<Screenshot 2023-10-18 at 4.44.25 PM.png>)
+
+Webpage after clicking "generate password"
+![Alt text](<Screenshot 2023-10-18 at 4.44.04 PM.png>)
+
+Final page after password is generated for length less than 8
+![Alt text](<Screenshot 2023-10-18 at 4.43.31 PM.png>)
+
+Final page after password is generated for length more than 8
+![Alt text](<Screenshot 2023-10-18 at 5.00.59 PM.png>) ![Alt text](<Screenshot 2023-10-18 at 4.43.31 PM-1.png>)
+
+
 ## Review
 
 You are required to submit the following for review:
